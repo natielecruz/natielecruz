@@ -2,9 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Natiele Cruz, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio e atualmente curso Análise e Desenvolvimento de Sistemas pela Proz Educação.
+👋 Olá! Meu nome é Natiele Cruz, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou construindo minha carreira como desenvolvedora e sou apaixonada por tecnologia, curiosa por natureza e movida por desafios que me fazem crescer.
 
-Sou apaixonada por tecnologia e acredito no poder da educação compartilhada. 
+🎯 Meu objetivo é evoluir como programadora, contribuir com projetos reais e fazer parte de equipes que criam soluções inovadoras.
 
 <p align="left">
     <a href="https://github.com/natielecruz?tab=repositories&sort=stargazers">
